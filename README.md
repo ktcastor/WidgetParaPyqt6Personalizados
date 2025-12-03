@@ -1,0 +1,1 @@
+# WidgetParaPyqt6Personalizados
